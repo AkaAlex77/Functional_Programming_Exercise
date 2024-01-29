@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/bin/Debug/net6.0/7. Predicate for Names
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/bin/Debug/net6.0/7. Predicate for Names.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/bin/Debug/net6.0/7. Predicate for Names.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/bin/Debug/net6.0/7. Predicate for Names.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/bin/Debug/net6.0/7. Predicate for Names.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/refint/7. Predicate for Names.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/7. Predicate for Names.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/7. Predicate for Names/obj/Debug/net6.0/ref/7. Predicate for Names.dll

@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/bin/Debug/net6.0/08. List Of Predicates
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/bin/Debug/net6.0/08. List Of Predicates.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/bin/Debug/net6.0/08. List Of Predicates.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/bin/Debug/net6.0/08. List Of Predicates.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/bin/Debug/net6.0/08. List Of Predicates.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/refint/08. List Of Predicates.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/08. List Of Predicates.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/08. List Of Predicates/obj/Debug/net6.0/ref/08. List Of Predicates.dll

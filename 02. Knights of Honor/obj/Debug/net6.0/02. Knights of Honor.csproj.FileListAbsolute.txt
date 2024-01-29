@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/bin/Debug/net6.0/02. Knights of Honor
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/bin/Debug/net6.0/02. Knights of Honor.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/bin/Debug/net6.0/02. Knights of Honor.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/bin/Debug/net6.0/02. Knights of Honor.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/bin/Debug/net6.0/02. Knights of Honor.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/refint/02. Knights of Honor.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/02. Knights of Honor.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/02. Knights of Honor/obj/Debug/net6.0/ref/02. Knights of Honor.dll

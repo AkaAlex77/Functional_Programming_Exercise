@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/bin/Debug/net6.0/05. Applied Arithmetics
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/bin/Debug/net6.0/05. Applied Arithmetics.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/bin/Debug/net6.0/05. Applied Arithmetics.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/bin/Debug/net6.0/05. Applied Arithmetics.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/bin/Debug/net6.0/05. Applied Arithmetics.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/refint/05. Applied Arithmetics.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/05. Applied Arithmetics.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/05. Applied Arithmetics/obj/Debug/net6.0/ref/05. Applied Arithmetics.dll

@@ -1,0 +1,15 @@
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/bin/Debug/net6.0/06. Reverse And Exclude
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/bin/Debug/net6.0/06. Reverse And Exclude.deps.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/bin/Debug/net6.0/06. Reverse And Exclude.runtimeconfig.json
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/bin/Debug/net6.0/06. Reverse And Exclude.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/bin/Debug/net6.0/06. Reverse And Exclude.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.csproj.AssemblyReference.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.AssemblyInfoInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.AssemblyInfo.cs
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/refint/06. Reverse And Exclude.dll
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.pdb
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/06. Reverse And Exclude.genruntimeconfig.cache
+/Users/alex/Desktop/SoftUni C# Advanced/Functional_Programming_Exercise/06. Reverse And Exclude/obj/Debug/net6.0/ref/06. Reverse And Exclude.dll
